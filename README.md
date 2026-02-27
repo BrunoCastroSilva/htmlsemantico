@@ -1,2 +1,1 @@
-# htmlsemantico
-https://brunocastrosilva.github.io/htmlsemantico/
+### link do site: https://brunocastrosilva.github.io/htmlsemantico
